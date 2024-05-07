@@ -8,6 +8,6 @@
 
 ## [Live Site](https://sushi-japanese-food-website.netlify.app/)
 https://sushi-japanese-food-website.netlify.app/
- 
- ![vaishnavipatil-food-website netlify app_](https://github.com/PatilVaishnavii/Project/assets/129088625/3f770213-1e15-4c75-a602-89e8fd4cf1c9)
+
+ ![sushi-japanese-food-website netlify app_](https://github.com/PatilVaishnavii/Japanese-Food-Website/assets/129088625/cea34121-f589-4e47-aa8b-40070017ae63)
 
